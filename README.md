@@ -1,8 +1,7 @@
 # Continued Fractions
 
 Representations of constants and functions as simple or
-[generalized continued fractions]
-(https://en.wikipedia.org/wiki/Generalized_continued_fraction)
+[generalized continued fractions](https://en.wikipedia.org/wiki/Generalized_continued_fraction)
 allow for expansion to an arbitrary number of digits of accuracy.
 
 This project initially provides a Python program capable of providing as many
