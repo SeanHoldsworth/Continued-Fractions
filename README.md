@@ -1,7 +1,9 @@
 # Continued Fractions
 
-Representations of constants and functions as simple or generalized continued
-fractions allow for expansion to an arbitrary number of digits of accuracy.
+Representations of constants and functions as simple or
+[generalized continued fractions]
+(https://en.wikipedia.org/wiki/Generalized_continued_fraction)
+allow for expansion to an arbitrary number of digits of accuracy.
 
 This project initially provides a Python program capable of providing as many
 digits of pi as requested. It does this using a generator function that will
